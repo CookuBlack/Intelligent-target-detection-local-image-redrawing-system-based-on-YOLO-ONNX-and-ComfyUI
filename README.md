@@ -23,13 +23,13 @@
 
 
 
-![Example 1](./assets/Example 1.png)
+![Example 1](./assets/Example1.png)
 
 **This is a little girl walking with a dog in the autumn forest.**
 
 
 
-![Example 2](./assets/Example 2.png)
+![Example 2](./assets/Example2.png)
 
 
 
