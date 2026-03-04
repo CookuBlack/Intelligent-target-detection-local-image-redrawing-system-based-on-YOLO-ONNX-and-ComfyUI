@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 
-model = YOLO(r"D:\Study\Controllable-image-generation\detection\runs\detect\train\weights\best.pt")
+model = YOLO(r"detection/runs/detect/train/weights/best.pt")
 # ----------------------
 # 3. 导出ONNX（端侧部署）
 # ----------------------
