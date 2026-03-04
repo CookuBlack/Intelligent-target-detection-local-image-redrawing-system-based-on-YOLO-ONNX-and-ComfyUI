@@ -17,11 +17,17 @@
 - 工具流程复杂、门槛高
 - 模型体积大、部署繁琐
 
+
+
 **This is an example of a child thinking in front of a camera.**
+
+
 
 ![Example 1](./assets/Example 1.png)
 
 **This is a little girl walking with a dog in the autumn forest.**
+
+
 
 ![Example 2](./assets/Example 2.png)
 
@@ -67,6 +73,8 @@
 - 一键选择图片 → 一键生成 → 一键保存结果
 - 自适应布局，不溢出屏幕、适配主流显示器
 
+
+
 ![image-20260304112855988](./assets/image-20260304112855988.png)
 
 ---
@@ -104,7 +112,11 @@ pip install onnxruntime-gpu
 weights/best.onnx
 ```
 
+你也可以通过以下链接来下载已经训练的模型来进行体验：
+链接: https://pan.baidu.com/s/1pYP0_qZpF5lt1bUCzB-Fjw?pwd=ytd3 提取码: ytd3
+
 ### 2. 启动 ComfyUI
+
 无论你下载的是原版的ComfyUI还是下载的整合包，都可以直接启动，并且保证ComfyUI中存放至少一个模型文件。
 
 ### 3. 运行程序
